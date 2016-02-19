@@ -1,0 +1,4 @@
+# seminar
+
+repozitar skusobny
+seminarprogramovanie
